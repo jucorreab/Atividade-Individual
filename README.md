@@ -7,8 +7,7 @@ Este projeto implementa um sistema bancário que simula transações entre clien
 # Como Usar
 1. Clone o repositório:
    ```bash
-   git clone 
-   cd 
+   git clone https://github.com/jucorreab/Atividade-Individual.git
 
 Este projeto é licenciado sob a Licença MIT.
 
