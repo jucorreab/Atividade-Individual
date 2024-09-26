@@ -9,12 +9,12 @@ Este projeto implementa um sistema bancário que simula transações entre clien
    ```bash
    git clone https://github.com/jucorreab/Atividade-Individual.git
 
-# Pré-requisitos
-Java JDK 11 ou superior
-Eclipse IDE
+## Pré-requisitos
+Java JDK 11 ou superior;
+Eclipse IDE.
 
 ### Tecnologias utilizadas:
-java version "21.0.2" 2024-01-16 LTS.
+java version "21.0.2" 2024-01-16 LTS;
 Eclipse.
 
 Este projeto é licenciado sob a Licença MIT.
