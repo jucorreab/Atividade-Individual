@@ -11,6 +11,7 @@ Este projeto implementa um sistema bancário que simula transações entre clien
 
 ## Pré-requisitos
 Java JDK 11 ou superior;
+
 Eclipse IDE.
 
 ### Tecnologias utilizadas:
